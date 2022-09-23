@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    padding: 20px;
+    margin: 1em;
+    border: 1px solid darkgray;
+    width: 400px;
+    height:fit-content;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px;
+}
+
+.card img{
+    width: 80%;
+}
+
+.card-id{
+    font-size: 1rem;
+}
+
+.card-name{
+    font-size: 1rem;
+}
+
+.card-email{
+    font-size: 1rem;
+}
+
